@@ -36,7 +36,8 @@ nav > ul {
 
 .corner-header {
     margin-left: 80px;
-    margin-top: 0;
+    margin-top: -110px;
+    position: fixed;
 }
 
 .center-header {
