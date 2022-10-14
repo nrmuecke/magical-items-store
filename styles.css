@@ -58,6 +58,7 @@ nav > ul {
     padding-left: 80px;
     margin-top: -4px;
     position: fixed;
+    z-index: 2;
 }
 
 .center-header {
