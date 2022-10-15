@@ -12,7 +12,7 @@ header {
     width: 100%;
     height: 75px;    
     display: flex; 
-    background-color: #86836D;   
+    background-color: #F6C913;   
     justify-content: space-between;
     align-items: center;
     position: fixed;
@@ -38,7 +38,7 @@ nav {
 }
 
 .subhead {
-    background-color: #87BCDE;    
+    background-color: #5BC0BE;    
 }
 
 nav > ul {
@@ -94,7 +94,17 @@ p {
     align-items: center;
     justify-content: center;    
     width: 100%;    
-    background-color: #2B2D42;
+    background-color: #B4A7B2;
+    height: 200px;
+    padding-bottom: 25px;
+}
+
+#shipping {
+    margin-top: -75px;
+}
+
+#quality {
+    margin-top: -75px;
 }
 
 .image {
